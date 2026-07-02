@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lesson 0001 • Active Recall + Feynman Checkpoint</title>
+  <style>
+    /* Inlined minimal version of assets/base-lesson.css for self-containment */
+    :root { --text:#222; --bg:#fffef7; --accent:#0a3d62; --muted:#555; }
+    @media (prefers-color-scheme: dark) { :root { --text:#e8e4d9; --bg:#121212; --accent:#7eb8ff; } }
+    body { font-family: system-ui, sans-serif; line-height:1.7; color:var(--text); background:var(--bg); max-width:42rem; margin:2rem auto; padding:0 1rem; font-size:18px; }
+    h1,h2 { font-family: Georgia, serif; }
+    .feynman-prompt { background:rgba(10,61,98,0.06); border-left:5px solid var(--accent); padding:1rem 1.2rem; margin:1.5em 0; border-radius:0 6px 6px 0; }
+    .quiz-option { display:block; margin:0.4em 0; padding:0.5em 0.8em; background:rgba(0,0,0,0.03); border:1px solid rgba(0,0,0,0.1); border-radius:4px; cursor:pointer; }
+    .quiz-option.correct { background:rgba(30,122,70,0.15); border-color:#1e7a46; }
+    .quiz-option.incorrect { background:rgba(179,107,0,0.12); border-color:#b36b00; }
+    .growth { font-style:italic; color:#1e7a46; }
+    .source { font-size:0.85em; color:var(--muted); }
+  </style>
+</head>
+<body>
+  <header class="lesson-header">
+    <h1>Lesson 0001 — Why Retrieval Practice Beats Re-reading</h1>
+    <p class="source">Primary inspiration: Roediger &amp; Karpicke (2006) testing effect + synthesis from Feynman, Khan, Huberman, Oakley.</p>
+  </header>
+
+  <p>Re-reading feels productive. It is mostly an illusion of fluency.</p>
+
+  <p>The single highest-leverage thing you can do after encountering new material is <strong>try to retrieve it from memory</strong> without looking.</p>
+
+  <h2>Quick Feynman Checkpoint</h2>
+  <div class="feynman-prompt">
+    <h4>Explain this out loud or in writing as if to a bright 12-year-old who has never heard the term:</h4>
+    <p><em>“Why does testing yourself (active recall) create much stronger long-term memory than re-reading the same notes?”</em></p>
+    <textarea rows="4" style="width:100%" placeholder="Write your explanation here..."></textarea>
+    <p><small>Then compare with the source material. Where were the gaps?</small></p>
+  </div>
+
+  <h2>Mini Retrieval Practice</h2>
+  <div class="quiz">
+    <p><strong>Which produces the strongest long-term retention?</strong></p>
+    <div onclick="this.classList.add('correct'); this.innerText += ' ✓ (correct)'" class="quiz-option">A. Re-reading your notes three times</div>
+    <div onclick="this.classList.add('incorrect'); this.innerText += ' ✗ Try again'" class="quiz-option">B. Highlighting key sentences while reading</div>
+    <div onclick="this.classList.add('correct'); this.innerText += ' ✓ (correct)'" class="quiz-option">C. Closing the book and writing or speaking what you remember</div>
+    <div onclick="this.classList.add('incorrect'); this.innerText += ' ✗' " class="quiz-option">D. Making the notes look prettier</div>
+  </div>
+
+  <p class="growth">Struggling to recall is not a sign you are bad at learning. It is the moment your brain is building stronger connections.</p>
+
+  <div class="mission-reminder">
+    <strong>Remember your mission.</strong> Every small act of retrieval moves you closer.
+    After this lesson: 10–20 minutes of calm NSDR (or a short nap) + protect your sleep tonight.
+  </div>
+
+  <p class="source">Next step: Tell the agent what came up for you in the Feynman box. We will decide the next micro-lesson together.</p>
+</body>
+</html>
