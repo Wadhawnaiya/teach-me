@@ -38,11 +38,13 @@ Write a record only when one or more is true:
 3. A **misconception was corrected** with clear before/after. These are gold for future prediction.
 4. The **mission meaningfully shifted** in response to what was learned. Cross-reference MISSION.md.
 
-### What Does NOT Qualify
+### Red Flags — Do NOT Write
 - Material merely covered or explained by you.
 - Surface-level questions answered.
 - Anything already captured tersely and accurately in the GLOSSARY.
 - Daily activity logs or "we covered X today".
+
+**Common rationalization**: "This feels important." → Only decision-grade insights that will change future teaching belong here.
 
 ## Supersession
 

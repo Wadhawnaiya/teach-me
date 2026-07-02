@@ -26,9 +26,11 @@
 
 - **One mission per workspace**. Multiple unrelated goals = multiple workspaces.
 - **Concrete & observable**. "Ship a production feature that reduces support tickets by 30%" beats "get better at backend".
-- **Push for the real why**. Interview until the mission feels alive and motivating.
+- **Push for the real why**. Interview until the mission feels alive and motivating. "Success looks like" must be verifiable.
 - **Revise with evidence**. When learning records show the user's actual goal has evolved, update the mission (with their explicit agreement) and record the shift.
 - **Keep it short**. A mission longer than a screen has stopped being a compass.
-- **Revisit regularly**. Start sessions by checking alignment with the mission.
+- **Revisit regularly**. Start major sessions by checking alignment with the mission.
+
+**Red flag**: Vague missions produce vague teaching. Do not proceed to lessons until the mission passes the "I could observe success or failure" test.
 
 Write the first version only after a short, high-quality conversation that surfaces real motivation.

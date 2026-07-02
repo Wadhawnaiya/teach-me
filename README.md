@@ -4,6 +4,14 @@
 
 A stateful, workspace-based teaching skill for Grok (and compatible agents). It turns any folder into a rigorous, long-term personal "course" for deep learning.
 
+**Reviewed & improved (2026-07)** against:
+- Anthropic Superpowers "writing-skills" (TDD for skills, SDO, description discipline, red flags/rationalization tables, pressure testing mindset, token efficiency, structure guidelines).
+- Official Grok skill authoring (08-skills.md + create-skill best practices).
+- Skill-creator patterns (progressive disclosure, clear anatomy, third-person triggers).
+- Additional patterns from skill development communities (bulletproofing, one excellent example, symptom-focused descriptions).
+
+All changes make the skill more discoverable, harder to shortcut, easier to follow precisely, and more resistant to common failure modes of AI teaching.
+
 - Treats your current directory as the complete teaching environment.
 - Produces beautiful, self-contained HTML lessons.
 - Grounds everything in your real **Mission**.
