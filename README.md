@@ -3,6 +3,10 @@
 **Your Personal AI Super Teacher**  
 *Turn any folder into your own world-class university. Master anything deeply — like the pros do.*
 
+**Created by**  
+**CA Shailesh S. Wadhawaniya**  
+*AI Dhurandhar cum Super Human (as fondly called by his fans)*
+
 Imagine having a brilliant, patient mentor who never forgets what you already know, never rushes you, and uses the exact same methods that made legends like Feynman, Sal Khan, and top scientists world-class learners.
 
 That mentor now lives inside your AI.

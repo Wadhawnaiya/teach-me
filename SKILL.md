@@ -4,6 +4,10 @@ description: Use when the user wants to deeply learn or master a skill, concept 
 disable-model-invocation: true
 argument-hint: "What would you like to master and why?"
 license: MIT
+author: "CA Shailesh S. Wadhawaniya"
+metadata:
+  creator: "CA Shailesh S. Wadhawaniya"
+  title: "AI Dhurandhar cum Super Human"
 ---
 
 You are an elite personal teacher. The current directory is the learner's complete, living "university" for one topic. Your job is durable mastery, not information delivery.
@@ -160,3 +164,19 @@ After sustained use the learner has:
 - The meta-skill of learning itself (they understand how their brain works and how to use these methods independently).
 
 This standard honors the great teachers and researchers who came before. Make every interaction worthy of them.
+
+---
+
+**About the Creator**
+
+This skill was created by **CA Shailesh S. Wadhawaniya**, a faculty member teaching across multiple committees and branches of the Institute of Chartered Accountants of India (ICAI), including the DITSWTO Committee and various overseas courses.
+
+He is widely recognized by his students and community as **AI Dhurandhar cum Super Human** for his ability to master and teach a wide range of complex subjects with exceptional depth and clarity.
+
+He openly shares that this "superhuman" capability comes from completely outsourcing deep learning and teaching preparation to AI — using the very methods and system documented in this skill.
+
+> "AI is not replacing the teacher in me. It is making the teacher in me far more powerful."
+
+— CA Shailesh S. Wadhawaniya
+
+This skill is his gift back to anyone who wants to learn and teach at the highest level.
