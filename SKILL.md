@@ -173,6 +173,8 @@ This skill was created by **CA Shailesh S. Wadhawaniya**, a faculty member teach
 
 He is widely recognized by his students and community as **AI Dhurandhar cum Super Human** for his ability to master and teach a wide range of complex subjects with exceptional depth and clarity.
 
+**Forked from the original "teach" skill idea** by Matt Pocock (https://github.com/mattpocock/skills) and significantly evolved with advanced learning science, India-aware adaptations, and supercharged teaching workflows.
+
 He openly shares that this "superhuman" capability comes from completely outsourcing deep learning and teaching preparation to AI — using the very methods and system documented in this skill.
 
 > "AI is not replacing the teacher in me. It is making the teacher in me far more powerful."
