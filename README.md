@@ -7,10 +7,6 @@
 **CA Shailesh S. Wadhawaniya**  
 *AI Dhurandhar cum Super Human (as fondly called by his fans)*
 
-**Forked from the original "teach" skill idea by**  
-**Matt Pocock**  
-https://github.com/mattpocock/skills
-
 Imagine having a brilliant, patient mentor who never forgets what you already know, never rushes you, and uses the exact same methods that made legends like Feynman, Sal Khan, and top scientists world-class learners.
 
 That mentor now lives inside your AI.
@@ -134,7 +130,7 @@ Use it to become the best version of yourself.
 
 This project stands on the shoulders of giants:
 
-- Matt Pocock (for the original beautiful idea)
+- **Matt Pocock** — for the original beautiful idea. This skill is forked from his original "teach" skill (https://github.com/mattpocock/skills)
 - Richard Feynman, Sal Khan, Barbara Oakley, Andrew Huberman, Carol Dweck, Maria Montessori
 - All the researchers who studied how the brain actually learns
 - Every great Indian teacher who makes quality education reachable
